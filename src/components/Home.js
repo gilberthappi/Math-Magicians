@@ -13,16 +13,18 @@ const Home = () => (
       showcasing the fun and intrigue of mathematics through engaging performances.
     </p>
     <p>
-      "Mathematics is the poetry of logical ideas." - Albert Einstein
+   Mathematics as Poetry: Albert Einstein once remarked that mathematics is akin to the poetry of logical ideas.
+   In this analogy, he beautifully portrays how mathematical concepts, when woven together,
+   create a narrative that is as intricate and elegant as poetry.
 
-      "Mathematics is the language with which God has written the universe." - Galileo Galilei
+   Mathematics as the Language of the Universe: Galileo Galilei suggested that mathematics
+   serves as the universal language written by the divine hand.
+   This perspective implies that through mathematical principles,
+   we gain insights into the underlying order and structure of the cosmos.
 
-      "Pure mathematics is, in its way, the poetry of logical ideas." - Albert Einstein
-
-      "Mathematics is not about numbers, equations, computations,
-       or algorithms: it is about understanding." - William Paul Thurston
-
-      "Mathematics is the music of reason." - James Joseph Sylvester
+   Pure Mathematics as Intellectual Artistry: Einstein further emphasized the aesthetic beauty found
+   in pure mathematics, likening it to the poetry of logical ideas. Here, mathematics transcends mere calculation,
+   becoming an art form where abstract concepts and logical reasoning intertwine.
     </p>
   </section>
 );
